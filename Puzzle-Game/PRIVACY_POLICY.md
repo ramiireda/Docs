@@ -63,5 +63,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or feedback regarding this Privacy Policy or child safety in **Kids Puzzle Game**, please contact us at:
 
-* **Email:** support@kidspuzzlegame.com *(or your developer contact email)*
+* **Email:** ramy.r.kamel@gmail.com
 * **Developer Name:** Kids Puzzle Game Team
